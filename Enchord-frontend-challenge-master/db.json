@@ -1,0 +1,32 @@
+{
+  "predict": {
+    "predictions": [
+      {
+        "bbox": {
+          "x1": 589,
+          "x2": 1443,
+          "y1": 92,
+          "y2": 927
+        },
+        "label": "title",
+        "score": "0.97",
+        "description": "hietsh",
+        "timeStamp": "10/7/2023 1:07:59 AM",
+        "image": "blob:http://localhost:3001/d67d7008-4bf3-4853-85e7-376db86da86a"
+      },
+      {
+        "bbox": {
+          "x1": 589,
+          "x2": 1443,
+          "y1": 92,
+          "y2": 927
+        },
+        "label": "title",
+        "score": "0.97",
+        "description": "desc",
+        "timeStamp": "10/7/2023 1:32:58 AM",
+        "image": "blob:http://localhost:3001/af6370cd-79ac-4b62-8537-22ae3f000bf5"
+      }
+    ]
+  }
+}

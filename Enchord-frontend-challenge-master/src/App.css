@@ -1,0 +1,45 @@
+.align-center{
+  display: flex;
+  justify-content: center;
+}
+
+.align-left{
+  display: flex;
+  justify-content: left;
+}
+
+#contained-button-file {
+  position: absolute;
+  z-index: 2;
+  padding: 8px 0px;
+  opacity: 0;
+  width: 150px;
+}
+
+#contained-button-file:hover {
+  cursor: pointer;
+}
+
+.upload-button-custom-css {
+  border-radius: 15px;
+}
+
+.upload-button-custom-css:hover {
+  cursor: pointer;
+}
+
+.p-tabview .p-tabview-nav .p-tabview-ink-bar {
+  display: none;
+}
+
+.p-tabview-nav-link {
+  text-decoration: none !important;
+}
+
+.display-block{
+  display: block;
+}
+
+.border-radius-15px{
+  border-radius: 15px;
+}
